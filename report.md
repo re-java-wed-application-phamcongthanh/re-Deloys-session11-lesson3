@@ -49,3 +49,5 @@
 1. **Tiết kiệm chi phí Runner**: GitHub tính phí theo phút sử dụng runner (đối với private repos). Giảm 70% thời gian chạy CI giúp tiết kiệm trực tiếp ngân sách hạ tầng.
 2. **Tăng tốc phản hồi (Fast Feedback Loop)**: Lập trình viên nhận kết quả kiểm thử Unit Test chỉ sau chưa đầy 20 giây thay vì phải chờ cả phút, giúp phát hiện lỗi sớm và cải thiện năng suất làm việc nhóm.
 3. **Chống nghẽn mạng & Ổn định**: Tránh việc build thất bại do lỗi chập chờn khi kết nối tới các repository công cộng bên ngoài (Maven Central / JCenter).
+
+<!-- Verified second push at 10/12/2026 13:41:46 -->
